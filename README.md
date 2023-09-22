@@ -2,6 +2,7 @@
 
 - Name: Xin Geng
 - How many hours did it take you to complete this assignment?
+  Approximately 5 hours.
 - Did you collaborate with any other students/TAs/Professors?
   No.
 - Did you use any external resources? (Cite them below)
