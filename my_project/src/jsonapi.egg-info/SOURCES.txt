@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/jsonapi.egg-info/PKG-INFO
+src/jsonapi.egg-info/SOURCES.txt
+src/jsonapi.egg-info/dependency_links.txt
+src/jsonapi.egg-info/requires.txt
+src/jsonapi.egg-info/top_level.txt
+tests/test_jsonapi.py
